@@ -8,7 +8,7 @@ app.engine('handlebars', handlebars.engine);
 app.set('view engine', 'handlebars');
 
 app.set('port', process.env.PORT || 3000);
-
+//testing
 var fortunes = [
     "Conquer your fears or they will conquer you.",
     "Rivers need springs.",
